@@ -2,7 +2,7 @@
 This project investigates the potential emergence of autopoietic thoughtseeds within a simulated system of interacting neurons. We define thoughtseeds as self-sustaining cognitive structures characterized by Markov Blanket properties.
 
 **Authors**
-Original Julia code** @Prakash Kavi**.
+Original **Julia** code **@Prakash Kavi**
 Contributors: 
 
 **License**
