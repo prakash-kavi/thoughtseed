@@ -15,6 +15,7 @@ Markov Blankets: We model thoughtseeds as possessing Markov Blanket properties, 
 Dynamical Systems Approach: We employ a dynamical systems framework to analyze the behavior and evolution of our neuron system, focusing on attractors, stability, and the potential for emergent patterns.
 Neuronal Packet Hypothesis (NPH): While inspired by concepts within the NPH , our current emphasis is on the broader principles of autopoiesis and Markov Blanket characteristics in thoughtseed emergence. For information on NPH, see: (https://github.com/alec-tschantz/packets)
 Simulation Features (In Development) 
+Later simulations will be adapted from Ant Colony Foraging https://github.com/docxology/ActiveInferAnts
 
 Neuron Model:
 Spiking behavior with configurable parameters.
